@@ -14,4 +14,4 @@ This project uses CREIS Guangzhou monthly commercial retail price index data to 
 
 ## Built With
 
-Python (NumPy, Pandas, Matplotlib, SciPy) in Google Colab.
+Python (NumPy, Pandas, Matplotlib, SciPy).
